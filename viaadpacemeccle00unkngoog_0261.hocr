@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./viaadpacemeccle00unkngoog_0261.png"; bbox 0 0 2032 3274; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 62 527 989 890">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 62 527 989 890">
+     <span class='ocr_line' id='line_1_1' title="bbox 172 527 989 620; baseline -0.007 -15"><span class='ocrx_word' id='word_1_1' title='bbox 172 530 538 608; x_wconf 65' lang='lat' dir='ltr'>HVGONIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 574 527 856 620; x_wconf 50' lang='lat' dir='ltr'>G-Rorxl,</span> <span class='ocrx_word' id='word_1_3' title='bbox 925 593 989 614; x_wconf 12' lang='grc' dir='ltr'>Ν,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 62 717 962 890; baseline -0.001 -32"><span class='ocrx_word' id='word_1_4' title='bbox 62 719 497 890; x_wconf 63' lang='grc' dir='ltr'>ΑΝΝΟ</span> <span class='ocrx_word' id='word_1_5' title='bbox 551 717 962 857; x_wconf 66' lang='lat' dir='ltr'>TAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 359 995 576 1100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 359 995 576 1100">
+     <span class='ocr_line' id='line_1_3' title="bbox 359 995 576 1100; baseline -0.023 -32"><span class='ocrx_word' id='word_1_6' title='bbox 359 1001 384 1100; x_wconf 71' lang='lat' dir='ltr'>j</span> <span class='ocrx_word' id='word_1_7' title='bbox 458 995 576 1066; x_wconf 77' lang='lat' dir='ltr'>An</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 25 1173 966 1488">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 25 1173 966 1488">
+     <span class='ocr_line' id='line_1_4' title="bbox 61 1173 966 1290; baseline 0.002 -13"><span class='ocrx_word' id='word_1_8' title='bbox 61 1173 966 1290; x_wconf 70' lang='lat' dir='ltr'>coNvaTATmNEM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 25 1311 966 1488; baseline -0.002 -15"><span class='ocrx_word' id='word_1_9' title='bbox 25 1311 29 1329; x_wconf 38' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 251 1388 782 1478; x_wconf 86' lang='lat' dir='ltr'>CASSANDRI.</span> <span class='ocrx_word' id='word_1_11' title='bbox 960 1429 966 1488; x_wconf 69' lang='grc' dir='ltr'>ς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1020 3274">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1020 3274">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1020 3274; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1020 3274; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
